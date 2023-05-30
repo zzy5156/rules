@@ -1,5 +1,5 @@
-Payload:
-  - DOMAIN-SUFFIX,app.bilibili.com
-  - DOMAIN-SUFFIX,api.bilibili.com
-  - DOMAIN-SUFFIX,app.bilibili.net
-  - DOMAIN-SUFFIX,api.bilibili.net
+payload:
+ - DOMAIN-SUFFIX,app.bilibili.com
+ - DOMAIN-SUFFIX,api.bilibili.com
+ - DOMAIN-SUFFIX,app.bilibili.net
+ - DOMAIN-SUFFIX,api.bilibili.net
