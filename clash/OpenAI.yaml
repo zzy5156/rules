@@ -26,9 +26,9 @@ payload:
  - DOMAIN-SUFFIX,edgecompute.app
  - DOMAIN-SUFFIX,compute-pipe.com
  - DOMAIN-SUFFIX,stspg-customer.com
- - IP-ASN,8057,DIRECT,no-resolve
- - IP-ASN,13335,DIRECT,no-resolve
- - IP-ASN,35913,DIRECT,no-resolve
+# - IP-ASN,8057,DIRECT,no-resolve
+# - IP-ASN,13335,DIRECT,no-resolve
+# - IP-ASN,35913,DIRECT,no-resolve
  - DOMAIN-SUFFIX,hosted-by-discourse.com
  - DOMAIN-SUFFIX,stripe.com
  - DOMAIN-SUFFIX,stripe.network
