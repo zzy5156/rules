@@ -1,4 +1,4 @@
-var proxy = "PROXY 127.0.0.1:7890; 192.168.0.1:7890; DIRECT";
+var proxy = "PROXY 127.0.0.1:7890; PROXY 192.168.0.1:7890; DIRECT";
 
 var direct = 'DIRECT';
 
