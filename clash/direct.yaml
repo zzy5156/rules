@@ -1,1 +1,2 @@
-api.oaipro.com
+payload:
+ - DOMAIN-SUFFIX,api.oaipro.com
