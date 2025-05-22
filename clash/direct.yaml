@@ -1,4 +1,4 @@
 payload:
- - DOMAIN-SUFFIX,api.oaipro.com
+# - DOMAIN-SUFFIX,api.oaipro.com
  - DOMAIN-SUFFIX,kaspersky.com
  - DOMAIN-SUFFIX,kaspersky-labs.com
